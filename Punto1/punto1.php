@@ -19,7 +19,7 @@
   $numero4=7;
   $numero5=9;
   $numero6=12;
-  $nummero7=15;
+  $numero7=15;
   $numero8=18;
   $numero9=21;
   $numero10=23;
@@ -114,7 +114,7 @@ and $numero10>$numero3 and $numero10>$numero4
 and $numero10>$numero5 and $numero10>$numero6 
 and $numero10>$numero7 and $numero10>$numero8 
 and $numero10>$numero9) {
-$mayor=$$numero10;
+$mayor=$numero10;
 }
 }
 }
